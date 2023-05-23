@@ -1,0 +1,54 @@
+
+body {
+    background-color: #f4f4f4; /* Cambia el valor por el color deseado */
+}
+
+
+  .login-container {
+    background-color: rgba(189, 208, 190, 0.7); /* Color pistache tenue */
+  }
+  
+
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bg-login-image {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-form {
+    padding: 40px;
+  }
+  
+  .login-form h1 {
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 20px;
+  }
+  
+  .login-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .login-form .form-control {
+    font-size: 14px;
+  }
+  
+  .login-form .btn-primary {
+    font-size: 14px;
+  }
+  
+  .login-form .small {
+    font-size: 12px;
+  }
